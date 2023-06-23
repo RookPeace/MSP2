@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RookPeace/social-app#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.1.3",
@@ -26,6 +27,6 @@
     "mongodb": "^5.6.0",
     "mongoose": "^7.3.0",
     "moongoose": "^0.0.1",
-    "nodemon": "^2.0.22"
+    "nodemon": "^1.14.9"
   }
 }
